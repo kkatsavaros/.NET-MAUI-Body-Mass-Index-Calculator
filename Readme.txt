@@ -9,9 +9,8 @@ For this application i use the Syncfusion.Maui.Gauges NuGet Package and especial
 
 gauge:SfLinearGauge  and gauge:SfRadialGauge controls.
 
-
-
 Also for the implementation of INotifyPropertyChange interface χρησιμοποιώ το PropertyChanged.Fody NuGet Package.
+
 
 
 Katsavaros Konstantinos
